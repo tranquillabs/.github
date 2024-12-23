@@ -1,6 +1,5 @@
-
 <h1 align="center">
-  <img class="avatar rounded-2" src="tq-icon.png" alt="@Tranquil42">
+  <img class="avatar rounded-2" src="tq-icon.png" alt="@Tranquil42" width="200" height="200">
   <br/>
  Designed for builders
 </h1>
