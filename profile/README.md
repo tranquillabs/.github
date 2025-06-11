@@ -1,6 +1,4 @@
-# Welcome
-
-## Business Automation Toolchain
+# Business Automation Toolchain
 
 Set of tools to automate browser-based business workflows. Includes a browser, URL manager, layout manager, an SDK, and more.
 
